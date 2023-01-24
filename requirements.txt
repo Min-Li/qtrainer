@@ -1,0 +1,15 @@
+numpy>=1.21
+pennylane>=0.27.0
+pennylane-lightning>=0.28.0
+tqdm
+mitiq>=0.22.0
+wandb
+networkx>=2.8.8
+
+## Optional
+# pennylane-lighting[gpu]
+# pennylane-cirq
+# pennylane-qiskit
+# cuquantum
+# amazon-braket-sdk
+# amazon-braket-pennylane-plugin
