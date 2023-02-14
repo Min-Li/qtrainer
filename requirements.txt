@@ -5,7 +5,7 @@ tqdm
 mitiq>=0.22.0
 wandb
 networkx>=2.8.8
-
+tensorboardX
 ## Optional
 # pennylane-lighting[gpu]
 # pennylane-cirq
